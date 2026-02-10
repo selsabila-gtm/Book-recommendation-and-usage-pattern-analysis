@@ -1,0 +1,84 @@
+================================================================================
+BOOK RECOMMENDATION EXAMPLES
+================================================================================
+
+1. If reader borrowed:
+   'fonctions de plusieurs variables relles : imites,continuite,differentiabilité et.... cours détaillé et exercices résolus'
+
+   RECOMMENDATIONS:
+
+   1. probabilites : rappels de cours et exercices corriges
+      Confidence: 0.440 | Lift: 4.028 | Support: 0.0924
+
+--------------------------------------------------------------------------------
+
+2. If reader borrowed:
+   'probabilites : rappels de cours et exercices corriges'
+
+   RECOMMENDATIONS:
+
+   1. fonctions de plusieurs variables relles : imites,continuite,differentiabilité et.... cours détaillé et exercices résolus
+      Confidence: 0.846 | Lift: 4.028 | Support: 0.0924
+
+--------------------------------------------------------------------------------
+
+3. If reader borrowed:
+   'eléments de la théorie des probabilités t.1'
+
+   RECOMMENDATIONS:
+
+   1. fonctions de plusieurs variables relles : imites,continuite,differentiabilité et.... cours détaillé et exercices résolus
+      Confidence: 0.600 | Lift: 2.856 | Support: 0.0252
+
+--------------------------------------------------------------------------------
+
+4. If reader borrowed:
+   'exercices en langage c++ : 178 exercices corrigés'
+
+   RECOMMENDATIONS:
+
+   1. algebre 1 : rappels de cours et exercices avec solutions
+      Confidence: 0.750 | Lift: 2.349 | Support: 0.0252
+
+--------------------------------------------------------------------------------
+
+5. If reader borrowed:
+   'tout sur r : ensemble des nombres reels structures algebrique et topologique'
+
+   RECOMMENDATIONS:
+
+   1. algebre 1 : rappels de cours et exercices avec solutions
+      Confidence: 0.714 | Lift: 2.237 | Support: 0.0420
+
+--------------------------------------------------------------------------------
+
+6. If reader borrowed:
+   'algebre 1 : rappels de cours et exercices avec solutions'
+
+   RECOMMENDATIONS:
+
+   1. cours d'algèbre et exercices corrigés
+      Confidence: 0.421 | Lift: 1.670 | Support: 0.1345
+
+--------------------------------------------------------------------------------
+
+7. If reader borrowed:
+   'cours d'algèbre et exercices corrigés'
+
+   RECOMMENDATIONS:
+
+   1. algebre 1 : rappels de cours et exercices avec solutions
+      Confidence: 0.533 | Lift: 1.670 | Support: 0.1345
+
+--------------------------------------------------------------------------------
+
+8. If reader borrowed:
+   'mathématiques rappels et cours exercices résolus'
+
+   RECOMMENDATIONS:
+
+   1. algebre 1 : rappels de cours et exercices avec solutions
+      Confidence: 0.429 | Lift: 1.342 | Support: 0.0252
+
+--------------------------------------------------------------------------------
+
